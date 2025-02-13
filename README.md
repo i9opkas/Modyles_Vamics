@@ -1,26 +1,29 @@
-# Модулі Hikka Userbot від Vamics  
-Цей репозиторій містить модулі для [Hikka](https://github.com/hikariatama/Hikka) 
+# Hikka Userbot Modules by Vamics 
+This repository contains modules for [Hikka](https://github.com/hikariatama/Hikka) 
 
-Щоб встановити модуль, використовуйте команду:`.dlm https://github.com/Vamics/Modyles_Vamics/дерикорія з модулем/назва_модуля.py` абож команду в відповідь на файл `.lm` 
-## Список модулів  
+To install the module, use the command:`.dlm https://github.com/Vamics/Modyles_Vamics/modyles/name_modyle.py` 
+
+or the command in response to the `.lm` file 
+
+## List of modules 
 ### 📌 AutoReply
-модуль на автоответчик как у тг премиум
+module for autoresponder like in tg premium
 
-**Команди:**  
+**Commands:** 
 
-▫️ **`.setcooldown`** Устанавливает кулдаун между автоответами
+▫️ **`.setcooldown`** Sets the cooldown between autoresponders
 
-▫️ **`.setmessage`** Устанавливает текст для автоответов
+▫️ **`.setmessage`** Sets the text for autoresponders
 
-▫️ **`.showsettings`** Отображает текущие настройки автоответчика
+▫️ **`.showsettings`** Displays the current autoresponder settings
 
-## Вимоги  
-- Встановлений **Hikka**  
-- Python 3.8+  
-- Доступ до інтернету для завантаження модулів  
+## Requirements 
+- **Hikka** installed 
+- Python 3.8+ 
+- Internet access to download modules 
 
-## Ліцензія  
-Проєкт розповсюджується за [MIT License](LICENSE).  
+## License 
+The project is distributed  under [MIT License](LICENSE). 
 
-## Зворотний зв’язок  
-Якщо у вас є пропозиції або знайшли помилку напишіть у [FeedBack](https://t.me/yas_vamicsbot)
+## Feedback 
+If you have any suggestions or found a bug, please write to [FeedBack](https://t.me/yas_vamicsbot)
