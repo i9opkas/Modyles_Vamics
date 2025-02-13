@@ -1,7 +1,7 @@
 # Hikka Userbot Modules by Vamics 
 This repository contains modules for [Hikka](https://github.com/hikariatama/Hikka) 
 
-To install the module, use the command:`.dlm https://github.com/Vamics/Modyles_Vamics/modyles/name_modyle.py` 
+To install the module, use the command:`.dlm https://github.com/Vamics/Modyles_Vamics/name_modyle.py` 
 
 or the command in response to the `.lm` file 
 
