@@ -1,28 +1,64 @@
-BSD 3-Clause License
+Copyright (c) 2025, Vamhost/Vamics
+All rights reserved.
 
-Copyright (c) 2025, Vamics_git
+Distribution and use in source and binary forms, with or without modifications, are permitted only for non-commercial purposes under the following conditions:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+When distributing the source code, the above copyright notice, this list of conditions, and the following disclaimer must be retained.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+When distributing in binary form, the above copyright notice, this list of conditions, and the following disclaimer must be included in the documentation and/or other materials provided with the distribution.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+Any commercial use, including but not limited to selling, licensing, advertising distribution, integration into paid products or services, and use on any paid platforms (e.g., SaaS), is prohibited without explicit written permission from the author.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Derivative products based on this code may not be sold, licensed, or used for commercial purposes without permission from the author.
+
+Modification Restrictions:
+
+Removing or obfuscating license notices is prohibited.
+
+Using automated tools to alter the license is prohibited.
+
+Creating closed (private) forks without the author's permission is prohibited.
+
+Integrating the code into proprietary software is prohibited.
+
+
+Each modified version must include a mini-license in each module file:
+
+#────────────────────────
+#────────██████──────────
+#──────██──────██────────
+#─────█─▄▀█──█▀▄─█───────
+#────▐▌──────────▐▌──────
+#────█▌▀▄──▄▄──▄▀▐█──────
+#───▐██──▀▀──▀▀──██▌─────
+#──▄████▄──▐▌──▄████▄────
+#─████████████████████───
+# Copyright (c) 2025, Vamhost/Vamics  
+# This module is part of a project licensed under the Custom BSD License.  
+# Commercial use and modifications for sale are prohibited without written or oral permission from the author.
+---------------------------------------------------------------------------------
+# Name: {name module}  
+# Description: {description}  
+# Author: Vamics  
+# Original GitHub repo: https://github.com/i9opkas/Modyles_Vamics  
+# Modified GitHub repo: {repo/none}  
+# Modified: {name} {date of modification} {contacts}  
+# Commands:  
+# {Commands1}  
+# {Commands2}  
+---------------------------------------------------------------------------------
+# Data that were in the original version
+
+All modified versions must contain a "Modified" banner, specifying the author of the changes, the time of the modifications, and their contact details (such as personal messages or support bot).
+
+In case of violation of the terms of this license (including, but not limited to, illegal commercial use, modification without permission, or resale), the author has the right to revoke the license for a specific user or organization without notice of the process, including when the code is found to be used in closed (private) forks.
+
+If a user is found to have violated the license terms, the violating user must immediately notify the author and cease all actions that violate the license, including deleting or discontinuing the use of the code if it violates the terms.
+
+If the code is used in commercial projects or services, the user is required to notify the author and obtain written permission. This notification must be provided before commercial use begins.
+
+Using this software means agreeing to the current version of the license.
+The author has the right to update the license to protect the project and may do so without notifying users.
+
+This software is provided "AS IS," without any warranties, either express or implied. The author is not responsible for any damages, losses, or data loss resulting from the use or inability to use this software.
