@@ -35,9 +35,12 @@ Each modified version must include a mini-license in each module file:
 #──▄████▄──▐▌──▄████▄────
 #─████████████████████───
 # Copyright (c) 2025, Vamhost/Vamics  
-# This module is part of a project licensed under the Custom BSD License.  
-# Commercial use and modifications for sale are prohibited without written or oral permission from the author.
----------------------------------------------------------------------------------
+#Commercial use and modifications are prohibited without the #author's permission.
+#All changes must include a license notice.
+#Distribution in source or binary form with modifications is #allowed only for non-commercial purposes.
+#Creating closed forks or integrating into closed software is #prohibited. Violation of the license terms will result in the #cancellation of the license.
+#Using this software means agreeing to the terms of the license.
+#-----------------------------------------------------------------#----------------
 # Name: {name module}  
 # Description: {description}  
 # Author: Vamics  
@@ -47,7 +50,7 @@ Each modified version must include a mini-license in each module file:
 # Commands:  
 # {Commands1}  
 # {Commands2}  
----------------------------------------------------------------------------------
+#-----------------------------------------------------------------#----------------
 # Data that were in the original version
 
 All modified versions must contain a "Modified" banner, specifying the author of the changes, the time of the modifications, and their contact details (such as personal messages or support bot).
