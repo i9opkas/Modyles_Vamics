@@ -11,13 +11,8 @@ module for autoresponder like in tg premium
 
 **Commands:** 
 
-▫️ **`.setcooldown`** Sets the cooldown between autoresponders
+▫️ **`.autoreply on/off`** Enables/disables the auto-responder
 
-▫️ **`.setmessage`** Sets the text for autoresponders
-
-▫️ **`.showsettings`** Displays the current autoresponder settings
-
-## Requirements 
 - **Hikka** installed 
 - Python 3.8+ 
 - Internet access to download modules 
